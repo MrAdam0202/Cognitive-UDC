@@ -1,0 +1,5 @@
+alpha_rad_start, beta_rad_start; x_goal, y_goal
+0.5, 0.5; 0, 0
+0.1, 0.1; 1, 0
+0.2, 0.1; 0.5, 0.5
+0.2, 0.2; 0.2, 1

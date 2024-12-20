@@ -1,0 +1,544 @@
+Current Angles: 2.507, 0.413;Goal: 0.000, 0.000;+5.0° on alpha: 0.244, -5.0° on alpha: 0.132, +5.0° on beta: 0.132, -5.0° on beta: 0.244; 
+
+Robot choose: -5.0° on beta with Utility Value: 0.244, Predicted Coordinates: (x=0.071, y=0.456); 
+-----------------------------------------------------------------
+Next distance: 0.462 (NormDis: 0.092), Unit Vector: [-0.154, -0.988, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 2.507, 0.325;Goal: 0.000, 0.000;+5.0° on alpha: 0.308, -5.0° on alpha: 0.182, +5.0° on beta: 0.182, -5.0° on beta: 0.309; 
+
+Robot choose: -5.0° on beta with Utility Value: 0.309, Predicted Coordinates: (x=0.083, y=0.414); 
+-----------------------------------------------------------------
+Next distance: 0.423 (NormDis: 0.085), Unit Vector: [-0.197, -0.98, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 2.507, 0.238;Goal: 0.000, 0.000;+5.0° on alpha: 0.374, -5.0° on alpha: 0.244, +5.0° on beta: 0.244, -5.0° on beta: 0.374; 
+
+Robot choose: -5.0° on beta with Utility Value: 0.374, Predicted Coordinates: (x=0.092, y=0.372); 
+-----------------------------------------------------------------
+Next distance: 0.383 (NormDis: 0.077), Unit Vector: [-0.239, -0.971, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 2.507, 0.151;Goal: 0.000, 0.000;+5.0° on alpha: 0.430, -5.0° on alpha: 0.309, +5.0° on beta: 0.309, -5.0° on beta: 0.431; 
+
+Robot choose: -5.0° on beta with Utility Value: 0.431, Predicted Coordinates: (x=0.096, y=0.328); 
+-----------------------------------------------------------------
+Next distance: 0.342 (NormDis: 0.068), Unit Vector: [-0.282, -0.96, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 2.507, 0.064;Goal: 0.000, 0.000;+5.0° on alpha: 0.425, -5.0° on alpha: 0.374, +5.0° on beta: 0.374, -5.0° on beta: 0.425; 
+
+Robot choose: -5.0° on beta with Utility Value: 0.425, Predicted Coordinates: (x=0.097, y=0.285); 
+-----------------------------------------------------------------
+Next distance: 0.301 (NormDis: 0.060), Unit Vector: [-0.323, -0.946, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 2.507, -0.024;Goal: 0.000, 0.000;+5.0° on alpha: 0.445, -5.0° on alpha: 0.432, +5.0° on beta: 0.431, -5.0° on beta: 0.447; 
+
+Robot choose: -5.0° on beta with Utility Value: 0.447, Predicted Coordinates: (x=0.094, y=0.241); 
+-----------------------------------------------------------------
+Next distance: 0.259 (NormDis: 0.052), Unit Vector: [-0.364, -0.931, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 2.507, -0.111;Goal: 0.000, 0.000;+5.0° on alpha: 0.488, -5.0° on alpha: 0.427, +5.0° on beta: 0.425, -5.0° on beta: 0.489; 
+
+Robot choose: -5.0° on beta with Utility Value: 0.489, Predicted Coordinates: (x=0.088, y=0.198); 
+-----------------------------------------------------------------
+Next distance: 0.216 (NormDis: 0.043), Unit Vector: [-0.404, -0.915, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 2.507, -0.198;Goal: 0.000, 0.000;+5.0° on alpha: 0.531, -5.0° on alpha: 0.448, +5.0° on beta: 0.447, -5.0° on beta: 0.533; 
+
+Robot choose: -5.0° on beta with Utility Value: 0.533, Predicted Coordinates: (x=0.077, y=0.156); 
+-----------------------------------------------------------------
+Next distance: 0.174 (NormDis: 0.035), Unit Vector: [-0.444, -0.896, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 2.507, -0.285;Goal: 0.000, 0.000;+5.0° on alpha: 0.575, -5.0° on alpha: 0.491, +5.0° on beta: 0.489, -5.0° on beta: 0.576; 
+
+Robot choose: -5.0° on beta with Utility Value: 0.576, Predicted Coordinates: (x=0.063, y=0.114); 
+-----------------------------------------------------------------
+Next distance: 0.131 (NormDis: 0.026), Unit Vector: [-0.483, -0.876, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 2.507, -0.373;Goal: 0.000, 0.000;+5.0° on alpha: 0.703, -5.0° on alpha: 0.534, +5.0° on beta: 0.533, -5.0° on beta: 0.706; 
+
+Robot choose: -5.0° on beta with Utility Value: 0.706, Predicted Coordinates: (x=0.045, y=0.074); 
+-----------------------------------------------------------------
+Next distance: 0.087 (NormDis: 0.017), Unit Vector: [-0.52, -0.854, 0.2]
+-----------------------------------------------------------------
+
+
+Robot reached the goal in 33 steps!
+
+Current Angles: 0.100, 0.100;Goal: 1.000, 0.000;+5.0° on alpha: 0.556, -5.0° on alpha: 0.752, +5.0° on beta: 0.556, -5.0° on beta: 0.752; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.752, Predicted Coordinates: (x=0.997, y=0.056); 
+-----------------------------------------------------------------
+Next distance: 0.056 (NormDis: 0.011), Unit Vector: [0.045, -0.999, 0.2]
+-----------------------------------------------------------------
+
+
+Robot reached the goal in 0 steps!
+
+Current Angles: 0.200, 0.100;Goal: 0.500, 0.500;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.977, y=0.192); 
+-----------------------------------------------------------------
+Next distance: 0.568 (NormDis: 0.114), Unit Vector: [-0.84, 0.543, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 0.287, 0.100;Goal: 0.500, 0.500;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.963, y=0.233); 
+-----------------------------------------------------------------
+Next distance: 0.534 (NormDis: 0.107), Unit Vector: [-0.866, 0.5, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 0.375, 0.100;Goal: 0.500, 0.500;+5.0° on alpha: 0.141, -5.0° on alpha: 0.106, +5.0° on beta: 0.130, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.141, Predicted Coordinates: (x=0.945, y=0.273); 
+-----------------------------------------------------------------
+Next distance: 0.500 (NormDis: 0.100), Unit Vector: [-0.891, 0.455, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 0.462, 0.100;Goal: 0.500, 0.500;+5.0° on alpha: 0.190, -5.0° on alpha: 0.106, +5.0° on beta: 0.175, -5.0° on beta: 0.108; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.190, Predicted Coordinates: (x=0.924, y=0.311); 
+-----------------------------------------------------------------
+Next distance: 0.464 (NormDis: 0.093), Unit Vector: [-0.913, 0.407, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 0.549, 0.100;Goal: 0.500, 0.500;+5.0° on alpha: 0.251, -5.0° on alpha: 0.141, +5.0° on beta: 0.228, -5.0° on beta: 0.159; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.251, Predicted Coordinates: (x=0.900, y=0.347); 
+-----------------------------------------------------------------
+Next distance: 0.428 (NormDis: 0.086), Unit Vector: [-0.934, 0.357, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 0.636, 0.100;Goal: 0.500, 0.500;+5.0° on alpha: 0.315, -5.0° on alpha: 0.190, +5.0° on beta: 0.287, -5.0° on beta: 0.215; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.315, Predicted Coordinates: (x=0.872, y=0.381); 
+-----------------------------------------------------------------
+Next distance: 0.391 (NormDis: 0.078), Unit Vector: [-0.952, 0.305, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 0.724, 0.100;Goal: 0.500, 0.500;+5.0° on alpha: 0.380, -5.0° on alpha: 0.251, +5.0° on beta: 0.347, -5.0° on beta: 0.282; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.380, Predicted Coordinates: (x=0.842, y=0.412); 
+-----------------------------------------------------------------
+Next distance: 0.353 (NormDis: 0.071), Unit Vector: [-0.969, 0.248, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 0.811, 0.100;Goal: 0.500, 0.500;+5.0° on alpha: 0.445, -5.0° on alpha: 0.315, +5.0° on beta: 0.408, -5.0° on beta: 0.349; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.445, Predicted Coordinates: (x=0.809, y=0.441); 
+-----------------------------------------------------------------
+Next distance: 0.315 (NormDis: 0.063), Unit Vector: [-0.982, 0.188, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 0.898, 0.100;Goal: 0.500, 0.500;+5.0° on alpha: 0.459, -5.0° on alpha: 0.380, +5.0° on beta: 0.450, -5.0° on beta: 0.418; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.459, Predicted Coordinates: (x=0.774, y=0.467); 
+-----------------------------------------------------------------
+Next distance: 0.276 (NormDis: 0.055), Unit Vector: [-0.993, 0.121, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 0.985, 0.100;Goal: 0.500, 0.500;+5.0° on alpha: 0.497, -5.0° on alpha: 0.445, +5.0° on beta: 0.464, -5.0° on beta: 0.452; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.497, Predicted Coordinates: (x=0.736, y=0.489); 
+-----------------------------------------------------------------
+Next distance: 0.237 (NormDis: 0.047), Unit Vector: [-0.999, 0.046, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.073, 0.100;Goal: 0.500, 0.500;+5.0° on alpha: 0.534, -5.0° on alpha: 0.459, +5.0° on beta: 0.497, -5.0° on beta: 0.492; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.534, Predicted Coordinates: (x=0.697, y=0.508); 
+-----------------------------------------------------------------
+Next distance: 0.197 (NormDis: 0.039), Unit Vector: [-0.999, -0.042, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.100;Goal: 0.500, 0.500;+5.0° on alpha: 0.570, -5.0° on alpha: 0.497, +5.0° on beta: 0.528, -5.0° on beta: 0.533; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.570, Predicted Coordinates: (x=0.656, y=0.524); 
+-----------------------------------------------------------------
+Next distance: 0.158 (NormDis: 0.032), Unit Vector: [-0.988, -0.151, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.100;Goal: 0.500, 0.500;+5.0° on alpha: 0.648, -5.0° on alpha: 0.534, +5.0° on beta: 0.557, -5.0° on beta: 0.574; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.648, Predicted Coordinates: (x=0.615, y=0.536); 
+-----------------------------------------------------------------
+Next distance: 0.120 (NormDis: 0.024), Unit Vector: [-0.954, -0.3, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.334, 0.100;Goal: 0.500, 0.500;+5.0° on alpha: 0.733, -5.0° on alpha: 0.570, +5.0° on beta: 0.582, -5.0° on beta: 0.677; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.733, Predicted Coordinates: (x=0.572, y=0.544); 
+-----------------------------------------------------------------
+Next distance: 0.084 (NormDis: 0.017), Unit Vector: [-0.851, -0.526, 0.2]
+-----------------------------------------------------------------
+
+
+Robot reached the goal in 13 steps!
+
+Current Angles: 0.200, 0.200;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.970, y=0.241); 
+-----------------------------------------------------------------
+Next distance: 1.081 (NormDis: 0.216), Unit Vector: [-0.712, 0.702, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 0.287, 0.200;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.955, y=0.282); 
+-----------------------------------------------------------------
+Next distance: 1.042 (NormDis: 0.208), Unit Vector: [-0.725, 0.689, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 0.375, 0.200;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.938, y=0.322); 
+-----------------------------------------------------------------
+Next distance: 1.002 (NormDis: 0.200), Unit Vector: [-0.736, 0.677, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 0.462, 0.200;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.917, y=0.360); 
+-----------------------------------------------------------------
+Next distance: 0.961 (NormDis: 0.192), Unit Vector: [-0.746, 0.666, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 0.549, 0.200;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.892, y=0.396); 
+-----------------------------------------------------------------
+Next distance: 0.918 (NormDis: 0.184), Unit Vector: [-0.754, 0.657, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 0.636, 0.200;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.865, y=0.430); 
+-----------------------------------------------------------------
+Next distance: 0.875 (NormDis: 0.175), Unit Vector: [-0.759, 0.651, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 0.724, 0.200;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.834, y=0.462); 
+-----------------------------------------------------------------
+Next distance: 0.832 (NormDis: 0.166), Unit Vector: [-0.763, 0.647, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 0.811, 0.200;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.802, y=0.490); 
+-----------------------------------------------------------------
+Next distance: 0.788 (NormDis: 0.158), Unit Vector: [-0.763, 0.646, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 0.898, 0.200;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.766, y=0.516); 
+-----------------------------------------------------------------
+Next distance: 0.745 (NormDis: 0.149), Unit Vector: [-0.76, 0.65, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 0.985, 0.200;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.729, y=0.539); 
+-----------------------------------------------------------------
+Next distance: 0.702 (NormDis: 0.140), Unit Vector: [-0.754, 0.657, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.073, 0.200;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.690, y=0.558); 
+-----------------------------------------------------------------
+Next distance: 0.660 (NormDis: 0.132), Unit Vector: [-0.742, 0.67, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.200;Goal: 0.200, 1.000;+5.0° on alpha: 0.112, -5.0° on alpha: 0.106, +5.0° on beta: 0.112, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on beta with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.112, +5.0° on beta: 0.106, -5.0° on beta: 0.112; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.112, +5.0° on beta: 0.106, -5.0° on beta: 0.112; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.112, +5.0° on beta: 0.106, -5.0° on beta: 0.112; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.112, +5.0° on beta: 0.106, -5.0° on beta: 0.112; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.112, +5.0° on beta: 0.106, -5.0° on beta: 0.112; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.112, +5.0° on beta: 0.106, -5.0° on beta: 0.112; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.112, +5.0° on beta: 0.106, -5.0° on beta: 0.112; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.112, +5.0° on beta: 0.106, -5.0° on beta: 0.112; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.112, +5.0° on beta: 0.106, -5.0° on beta: 0.112; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.112, +5.0° on beta: 0.106, -5.0° on beta: 0.112; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.112, +5.0° on beta: 0.106, -5.0° on beta: 0.112; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.112, +5.0° on beta: 0.106, -5.0° on beta: 0.112; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.112, +5.0° on beta: 0.106, -5.0° on beta: 0.112; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.112, +5.0° on beta: 0.106, -5.0° on beta: 0.112; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.112, +5.0° on beta: 0.106, -5.0° on beta: 0.112; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.112, +5.0° on beta: 0.106, -5.0° on beta: 0.112; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.112, +5.0° on beta: 0.106, -5.0° on beta: 0.112; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.112, +5.0° on beta: 0.106, -5.0° on beta: 0.112; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.247, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.112, +5.0° on beta: 0.106, -5.0° on beta: 0.112; 
+
+Robot choose: -5.0° on alpha with Utility Value: 0.112, Predicted Coordinates: (x=0.679, y=0.600); 
+-----------------------------------------------------------------
+Next distance: 0.624 (NormDis: 0.125), Unit Vector: [-0.768, 0.641, 0.2]
+-----------------------------------------------------------------
+
+Current Angles: 1.160, 0.287;Goal: 0.200, 1.000;+5.0° on alpha: 0.106, -5.0° on alpha: 0.106, +5.0° on beta: 0.106, -5.0° on beta: 0.106; 
+
+Robot choose: +5.0° on alpha with Utility Value: 0.106, Predicted Coordinates: (x=0.639, y=0.616); 
+-----------------------------------------------------------------
+Next distance: 0.583 (NormDis: 0.117), Unit Vector: [-0.752, 0.659, 0.2]
+-----------------------------------------------------------------
+
+
+Test failed after 50 steps!
+
