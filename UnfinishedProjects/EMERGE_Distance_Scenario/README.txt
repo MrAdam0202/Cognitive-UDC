@@ -10,6 +10,8 @@ In contrast to the EMERGE_Coordinates scenario, where the output data from WM ha
 
 Unfortunately, this scenario was not completed within the time frame. Even though the movement options were limited from 3 joints to only 2 joints, the data generated for WM was insufficient. In my case, 5,000 random goals were created with 10 random actions. This caused the robot to behave differently than expected and oscillate in some of the variations specified by the random goal position and start position. Another shortcoming was the range of steps learned in UM. If the robot was more than 0.1 units away from the target, the Utility Values were the same for all actions.
 When the robot's joint motion was constrained to a range of 0 to 30 degrees and the creation of WM within that range, the robot behaved with more deviation, but the behavior was closer to expectations. But after changing the range to 90 degrees, the robot had large errors due to insufficient data.
+
+The file for learning UM EMERGEDist_SphericalDataForUM__2024_0912_1300.csv has been removed due to a file size problem during upload. This data k can be created using EMERGEDist_Learning3DWM_2Angles.py.
 ======================================================================
 Recommendations for the next steps of the project
 ======================================================================
